@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "faker": "^5.5.3"
+  },
+  "name": "gaby",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
